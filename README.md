@@ -1,6 +1,8 @@
 # ML-Powered-Web-Scraper
 
 
+https://github.com/user-attachments/assets/9aeff8b8-297d-4da7-a3f2-3d08ef0a7d61
+
 <img width="1919" height="969" alt="Image" src="https://github.com/user-attachments/assets/a776bead-dd0e-4530-b65d-fd7b4f5f9a8d" />
 <img width="1919" height="971" alt="Image" src="https://github.com/user-attachments/assets/91ac3d80-83bd-46ca-878c-af4f37583f94" />
 <img width="1919" height="968" alt="Image" src="https://github.com/user-attachments/assets/89ea772f-3b91-4b26-bd03-7f294c0a4c8a" />
