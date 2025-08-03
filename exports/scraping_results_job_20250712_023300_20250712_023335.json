@@ -1,0 +1,41 @@
+{
+  "export_metadata": {
+    "export_time": "2025-07-12T02:33:35.126060",
+    "format": "json",
+    "version": "1.0",
+    "exported_by": "ML-Web-Scraper"
+  },
+  "job_summary": {
+    "job_id": "job_20250712_023300",
+    "status": "completed",
+    "total_urls": 1,
+    "processed_urls": 1,
+    "failed_urls": 0,
+    "start_time": "2025-07-12T02:33:00.803805",
+    "end_time": "2025-07-12T02:33:02.831549",
+    "duration": 2
+  },
+  "scraped_results": [
+    {
+      "url": "https://www.geeksforgeeks.org/blogs/phone-interview-questions/",
+      "title": "Sample Content from https://www.geeksforgeeks.org/blogs/phone-interview-questions/",
+      "word_count": 500,
+      "status": "completed",
+      "category": "Technology",
+      "sentiment": "Positive",
+      "quality_score": 0.7,
+      "content": "This is sample content extracted from https://www.geeksforgeeks.org/blogs/phone-interview-questions/. It contains meaningful information about the topic discussed on the webpage."
+    }
+  ],
+  "statistics": {
+    "total_word_count": 500,
+    "average_word_count": 500.0,
+    "category_distribution": {
+      "Technology": 1
+    },
+    "sentiment_distribution": {
+      "Positive": 1
+    },
+    "average_quality": 0.7
+  }
+}
