@@ -1,0 +1,63 @@
+# Web Scraping
+requests
+beautifulsoup4
+selenium
+aiohttp
+scrapy
+
+# ML and AI
+torch
+torchvision
+transformers
+scikit-learn
+nltk
+spacy
+textblob
+gensim
+
+# API and Web Framework
+fastapi
+uvicorn
+websockets
+httpx
+
+# UI
+gradio
+
+# Database
+psycopg2-binary
+sqlalchemy
+alembic
+
+# AWS
+boto3
+botocore
+
+# Data Processing
+pandas
+numpy
+openpyxl
+reportlab
+
+# Environment and Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# Async and Utilities
+asyncio
+aiofiles
+python-multipart
+
+# Ollama Integration
+ollama
+
+# Additional NLP
+wordcloud
+matplotlib
+seaborn
+plotly
+
+# Quality and Validation
+validators
+python-magic
